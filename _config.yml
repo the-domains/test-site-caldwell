@@ -1,0 +1,28 @@
+name: test-site-caldwell
+favicon: null
+layout_spectrum: 0.10882046027109027
+typography_spectrum: 0.37085388018749654
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5652572198305279
+  lightness: 0.8541934518143535
+  saturation: 0.7168649195227772
+  rhythmicContrast: 0.3827596129849553
+purpose: []
