@@ -1,7 +1,7 @@
 name: test-site-caldwell
 favicon: null
-layout_spectrum: 0.59166
-typography_spectrum: 0.68993
+layout_spectrum: 0.48931
+typography_spectrum: 0.84767
 title: test-site-caldwell
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#547AB1'
     - '#CEAFC0'
   brandStrength: 0.6875
-  lightness: 0.8541934518143535
+  lightness: 0.5
   saturation: 0.4375
-  rhythmicContrast: 0.3827596129849553
+  rhythmicContrast: 0.75
 purpose: []
